@@ -7,3 +7,10 @@
 # Idea List
 
 - (TODO 20151224)计划一个有意思的开源项目，作为自己的技术积累的总结！同时需要考虑到实际的使用场景
+- 
+
+# 工具收集
+
+20151226
+https://github.com/pcottle/learnGitBranching
+像打怪兽一样的学习git
